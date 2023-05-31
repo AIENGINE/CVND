@@ -1,0 +1,9 @@
+[submodule "P1_Facial_Keypoints"]
+	path = P1_Facial_Keypoints
+	url = https://github.com/AIENGINE/P1_Facial_Keypoints
+[submodule "P3_Implement_SLAM"]
+	path = P3_Implement_SLAM
+	url = https://github.com/AIENGINE/P3_Implement_SLAM
+[submodule "CVND---Image-Captioning-Project"]
+	path = CVND---Image-Captioning-Project
+	url = https://github.com/AIENGINE/CVND---Image-Captioning-Project
